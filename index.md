@@ -1,3 +1,8 @@
+theme: jekyll-theme-cayman
+title: welcome
+description: something something something
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JoshD-ECE17/Meier_Code.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
